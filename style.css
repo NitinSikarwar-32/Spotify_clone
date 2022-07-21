@@ -36,6 +36,10 @@ nav ul li{
     font-weight: bolder;
     font-size: 1.3rem;
 }
+.search{
+    width: 40px;
+    height: 20px;
+}
 
 .container{
     min-height: 72vh;
